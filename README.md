@@ -1,6 +1,6 @@
-<!-- SQ225 STYLE – KALI DARK HACKER BANNER -->
+<!-- SQ225 STYLE – KALI DARK HACKER BANNER (Daha küçük + daha yatay + daha net) -->
 <p align="center">
-  <img src="https://i.hizliresim.com/tizm2ea.gif" width="700"/>
+  <img src="https://i.hizliresim.com/tizm2ea.gif" width="550"/>
 </p>
 
 <!-- GLITCH / TYPING EFFECT TITLE -->
@@ -24,22 +24,7 @@
 
 ---
 
-## ⚙️ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SQ225&theme=radical&border=00eaff&stroke=00eaff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SQ225&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🐍 Hacker Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🧩 Discord  
