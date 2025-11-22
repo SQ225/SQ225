@@ -1,5 +1,5 @@
-<!-- SQ225 – HACKER TITLE -->
-<h1 align="center" style="color:#00E5FF;">
+<!-- SQ225 – TERMINAL TITLE -->
+<h1 align="center" style="color:#00E5FF; font-family: monospace;">
   SQ225
 </h1>
 
@@ -7,9 +7,9 @@
   <img src="https://i.hizliresim.com/tizm2ea.gif" width="650"/>
 </p>
 
-<!-- GLITCH TYPING: HACKER INTRO -->
+<!-- TERMINAL TYPING EFFECT -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=650&lines=SQ225+%7C+Cyber+Warrior;Kali+Linux+User;Underground+Developer;Stay+Anonymous+%7C+Stay+Secure" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=650&lines=SQ225+Presents...;Kali+Linux+User;Underground+Developer;Linux+Operator;Terminal+Based+Workflow" />
 </h2>
 
 ---
