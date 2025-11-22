@@ -4,12 +4,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.hizliresim.com/tizm2ea.gif" width="550"/>
+  <img src="https://i.hizliresim.com/tizm2ea.gif" width="650"/>
 </p>
 
-<!-- GLITCH TYPING: ÖĞRENDİĞİN DİLLER -->
+<!-- GLITCH TYPING: HACKER INTRO -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=650&lines=JavaScript;Node.js;Lua;PHP;MySQL;Linux+User" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=650&lines=SQ225+%7C+Cyber+Warrior;Kali+Linux+User;Underground+Developer;Stay+Anonymous+%7C+Stay+Secure" />
 </h2>
 
 ---
@@ -29,10 +29,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center" style="color:#00E5FF; font-weight:bold;">
-  SQ225 forfillsne baktığın için teşekkürler!
 </p>
