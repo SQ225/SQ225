@@ -1,6 +1,6 @@
 <!-- SQ225 – HACKER TITLE -->
 <h1 align="center" style="color:#00E5FF;">
-  SQ225 | Dark Coder
+  SQ225
 </h1>
 
 <p align="center">
