@@ -3,10 +3,6 @@
   SQ225
 </h1>
 
-<p align="center">
-  <img src="https://i.hizliresim.com/tizm2ea.gif" width="650"/>
-</p>
-
 <!-- TERMINAL TYPING EFFECT -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=650&lines=SQ225+Presents...;Kali+Linux+User;Underground+Developer;Linux+Operator;Terminal+Based+Workflow" />
