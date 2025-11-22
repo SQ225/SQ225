@@ -7,9 +7,9 @@
   <img src="https://i.hizliresim.com/tizm2ea.gif" width="550"/>
 </p>
 
-<!-- GLITCH TYPING -->
+<!-- GLITCH TYPING: ÖĞRENDİĞİN DİLLER -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=650&lines=Kali+Linux+User;Underground+Developer;Cyber+Security+Mindset;Stay+Anonymous+%7C+Stay+Secure" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=650&lines=JavaScript;Node.js;Lua;PHP;MySQL;Linux+User" />
 </h2>
 
 ---
