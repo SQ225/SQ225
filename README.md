@@ -1,11 +1,11 @@
-<!-- KALI ANİMASYONLU BANNER -->
+<!-- SQ225 STYLE – KALI DARK HACKER BANNER -->
 <p align="center">
   <img src="https://i.hizliresim.com/tizm2ea.gif" width="700"/>
 </p>
 
-<!-- HACKER TITLE -->
+<!-- GLITCH / TYPING EFFECT TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00E5FF&center=true&vCenter=true&width=650&lines=Dark+Coder+%7C+Kali+Linux+User;JS+%7C+Node+%7C+Lua+%7C+PHP+%7C+MySQL;Welcome+to+the+Underground+⚡">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00E5FF&center=true&vCenter=true&width=700&lines=SQ225+%7C+Dark+Coder;Kali+Linux+User+%7C+Underground+Dev;Welcome+to+the+Underworld+⚡" />
 </h1>
 
 ---
@@ -26,11 +26,11 @@
 
 ## ⚙️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI-ADIN&theme=radical&border=00eaff&stroke=00eaff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SQ225&theme=radical&border=00eaff&stroke=00eaff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI-ADIN&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SQ225&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
