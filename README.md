@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.hizliresim.com/tizm2ea.gif" width="650"/>
+  <img src="/mnt/data/tizm2ea.gif" width="700" height="auto"/>
 </p>
 
 <!-- TERMINAL TYPING EFFECT -->
