@@ -1,4 +1,3 @@
-<!-- SQ225 – TERMINAL TITLE -->
 <h1 align="center" style="color:#00E5FF; font-family: monospace;">
   SQ225
 </h1>
@@ -7,7 +6,6 @@
   <img src="/mnt/data/tizm2ea.gif" width="750" height="400"/>
 </p>
 
-<!-- TERMINAL TYPING EFFECT -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=650&lines=SQ225+Presents...;Kali+Linux+User" />
 </h2>
