@@ -1,55 +1,60 @@
-<!-- Başlık ve selam kısmı -->
-# Merhaba 👋, ben [Senin Adın]  
-**Software Developer / Öğrenci / Hobiyle Kodlayan**  
+<!-- ANİMASYONLU YAZI -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+ADIN;JavaScript+%7C+Node+%7C+Lua+%7C+Linux+Enthusiast;Coding+is+energy+⚡;Welcome+to+my+profile">
+</p>
+
+<!-- MATRIX GLITCH BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
+
+<h1 align="center">⚡ Fast • Minimal • Sharp ⚡</h1>
 
 ---
 
-## Hakkımda  
-- 🌱 Şu anda **[öğrendiğin teknoloji / dil]** ile çalışıyorum.  
-- 💻 Favori teknolojilerim: **JavaScript, Python, React**, vs.  
-- 🔭 Aktif olarak üzerinde çalıştığım projeler: *[projeden kısaca bahset]*  
-- 👯 Katılmak istediğim projeler: Açık kaynak, web uygulamaları, vs.  
-- 💬 Bana şunu sor: Kod, oyun geliştirme, yapay zeka …  
-- 📫 Bana ulaş: [e-posta adresin] veya [LinkedIn / Twitter linkin]  
+## 🚀 About Me
+- 🔥 Kod yazmayı hızlı, kısa ve agresif seviyorum  
+- 🐧 Linux benim evim  
+- 💻 JS, Node, Lua ile script + bot + mini app yazıyorum  
+- ⚙️ Terminal kafası → CLI tools, otomasyon, hack-style işler
 
 ---
 
-## 🛠️ Yetenekler & Teknolojiler  
-| Alan | Teknolojiler |
-|---|---|
-| Programlama Dilleri | JavaScript, Python, Java |
-| Web Teknolojileri | React, Node.js, Express, HTML, CSS |
-| Veritabanı | MongoDB, PostgreSQL |
-| Diğer | Git, Docker, REST API |
+## 🧬 Tech Stack (Kısa & Net)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+</p>
 
 ---
 
-## 📊 GitHub İstatistikler  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senin-kullanici-adin&show_icons=true&theme=radical)  
+## 📊 GitHub Stats (Neon Mod)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI-ADIN&theme=radical&border=00eaff&stroke=00eaff" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI-ADIN&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Projeler  
-- **[Proje Adı 1]** — kısa açıklama + ne yaptığı  
-- **[Proje Adı 2]** — başka bir proje + amaç  
+## 🐍 Neon Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🌍 Sosyal Medya  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profesyonel-blue)](https://www.linkedin.com/in/senin-linkedin/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@senintwitter-hashtag)](https://twitter.com/senintwitter)  
+## 📡 Contact
+📧 Mail: **mailinizi yazın**  
+💬 Discord: **kullanıcı adın varsa eklerim**
 
 ---
 
-## 🎧 İlham Aldıklarım / Favori Alıntılar  
-> “Kod yazmak bir sanattır; her satır düşünülmeli.”  
->  
-> *– Senin Kendi Alıntın Veya Sevdiğin Bir Alıntı*
-
----
-
-## ⚡ Eğlenceli Şeyler  
-- 🎮 Oyun oynamayı severim: *[oyun ismi]*  
-- 📚 Son okuduğum kitap: *[kitap ismi]*  
-- 🌱 Hobi: Bahçecilik / Fotoğrafçılık / Yazılım blog yazarlığı
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
